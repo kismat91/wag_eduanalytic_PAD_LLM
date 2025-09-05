@@ -1,10 +1,10 @@
-# WAG EduAnalytic PAD LLM
+# WBG EduAnalytic PAD LLM
 
 An AI-powered application for analyzing World Bank Project Appraisal Documents (PADs) with enhanced semantic matching and LLM validation capabilities.
 
 ## Overview
 
-WAG EduAnalytic PAD LLM is a comprehensive solution that leverages advanced AI technologies to analyze World Bank Project Appraisal Documents. The application combines document OCR, semantic search, LLM validation, and interactive chat capabilities to provide deep insights and semantic matching for educational project analysis.
+WBG EduAnalytic PAD LLM is a comprehensive solution that leverages advanced AI technologies to analyze World Bank Project Appraisal Documents. The application combines document OCR, semantic search, LLM validation, and interactive chat capabilities to provide deep insights and semantic matching for educational project analysis.
 
 ## Key Features
 
